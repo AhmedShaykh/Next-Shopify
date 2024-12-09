@@ -1,1 +1,1 @@
-# Next Shopify!
+# Next.JS Shopify Headless Commerce!
